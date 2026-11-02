@@ -2,7 +2,7 @@
 
 <picture><img src="assets/cat.gif" alt="A cat loafing on a desktop computer in a room at night, drawn as a halftone, with a speech bubble that says hi, welcome. It blinks and its tail sways." width="100%"></picture>
 
-I build full stack apps and AI agents, and I want to learn more.
+Curiosity killed the cat, but satisfaction brought it back. 
 
 <a href="https://www.linkedin.com/in/nino-marcos/"><img src="https://img.shields.io/badge/LinkedIn-11141d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2VlZTdkMyIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyaDIwdjIwSDJ6TTYgOS41aDIuOFYxOEg2ek03LjQgNS4yYTEuNiAxLjYgMCAxIDEgMCAzLjJhMS42IDEuNiAwIDAgMSAwLTMuMnpNMTAuNCA5LjVoMi43djEuMmMuNS0uOCAxLjUtMS40IDIuOC0xLjRjMi4yIDAgMy4xIDEuNCAzLjEgMy42VjE4aC0yLjh2LTQuNWMwLTEuMS0uMy0xLjktMS40LTEuOXMtMS43LjgtMS43IDEuOVYxOGgtMi43eiIvPjwvc3ZnPgo%3D" alt="LinkedIn"></a>
 <a href="https://github.com/m-njp"><img src="https://img.shields.io/badge/GitHub-11141d?style=for-the-badge&logo=github&logoColor=eee7d3" alt="GitHub"></a>

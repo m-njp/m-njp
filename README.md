@@ -35,8 +35,8 @@ Curiosity killed the cat, but satisfaction brought it back.
 <picture><img src="https://img.shields.io/badge/RAG-11141d?style=flat-square" alt="RAG"></picture>
 <picture><img src="https://img.shields.io/badge/MCP-11141d?style=flat-square" alt="MCP"></picture>
 <!-- Replace the # in the next three links when the URLs are ready -->
-<a href="#"><img src="https://img.shields.io/badge/Agentic_AI-11141d?style=flat-square" alt="Agentic AI"></a>
-<a href="#"><img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-eee7d3?style=flat-square&labelColor=11141d" alt="Microsoft Certified: Azure Fundamentals"></a>
-<a href="#"><img src="https://img.shields.io/badge/Google-AI_Professional-eee7d3?style=flat-square&labelColor=11141d&logo=google&logoColor=eee7d3" alt="Google AI Professional Certificate"></a>
+<a href="https://www.credential.net/1d20c9dd-811a-4fa9-9e6d-66dbda7969d8#acc.qmcAPnV6"><img src="https://img.shields.io/badge/Agentic_AI-11141d?style=flat-square" alt="Agentic AI"></a>
+<a href="https://www.credly.com/badges/80f82d65-a752-4c31-af1d-314fa9b05599"><img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-eee7d3?style=flat-square&labelColor=11141d" alt="Microsoft Certified: Azure Fundamentals"></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/BFMKJ1FTUOLD"><img src="https://img.shields.io/badge/Google-AI_Professional-eee7d3?style=flat-square&labelColor=11141d&logo=google&logoColor=eee7d3" alt="Google AI Professional Certificate"></a>
 
 </div>
